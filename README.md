@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ **Creating apps, solving problems, and continuously improving!**  <br>I’m passionate about **App Development**, **Software Engineering**, and building **Web Applications** that make a difference.<br><br>📚 **Currently learning**:  <br>- **Java Web Apps** (Spring, Servlets, JSP)  <br>- **SQLite, DB Browser, Tomcat** (for database management and backend services)  <br>- **Kotlin** (for Android app development, exploring in my own time)<br><br>🎯 <b>Goals<b>:  <br>- Get better at building scalable, high-quality web and mobile apps.  <br>- Land an internship with a leading tech company like Google, Microsoft, or Apple to work on real-world challenges.  <br>- Contribute to open-source projects and gain hands-on experience in software engineering.</p>
+<p align="left">✨ <b>Creating apps, solving problems, and continuously improving!</b>  <br>I’m passionate about <b>App Development</b>, <b>Software Engineering</b>, and building <b>Web Applications</b> that make a difference.<br><br>📚 <b>Currently learning</b>:  <br>- <b>Java Web Apps</b> (Spring, Servlets, JSP)  <br>- <b>SQLite, DB Browser, Tomcat</b> (for database management and backend services)  <br>- <b>Kotlin</b> (for Android app development, exploring in my own time)<br><br>🎯 <b>Goals:</b>  <br>- Get better at building scalable, high-quality web and mobile apps.  <br>- Land an internship with a leading tech company like Google, Microsoft, or Apple to work on real-world challenges.  <br>- Contribute to open-source projects and gain hands-on experience in software engineering.</p>
 
 ###
 
@@ -39,5 +39,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
 </div>
-
-###
