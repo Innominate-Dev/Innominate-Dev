@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ **Creating apps, solving problems, and continuously improving!**  <br>I’m passionate about **App Development**, **Software Engineering**, and building **Web Applications** that make a difference.<br><br>📚 **Currently learning**:  <br>- **Java Web Apps** (Spring, Servlets, JSP)  <br>- **SQLite, DB Browser, Tomcat** (for database management and backend services)  <br>- **Kotlin** (for Android app development, exploring in my own time)<br><br>🎯 **Goals**:  <br>- Get better at building scalable, high-quality web and mobile apps.  <br>- Land an internship with a leading tech company like Google, Microsoft, or Apple to work on real-world challenges.  <br>- Contribute to open-source projects and gain hands-on experience in software engineering.</p>
+<p align="left">✨ **Creating apps, solving problems, and continuously improving!**  <br>I’m passionate about **App Development**, **Software Engineering**, and building **Web Applications** that make a difference.<br><br>📚 **Currently learning**:  <br>- **Java Web Apps** (Spring, Servlets, JSP)  <br>- **SQLite, DB Browser, Tomcat** (for database management and backend services)  <br>- **Kotlin** (for Android app development, exploring in my own time)<br><br>🎯 <b>Goals<b>:  <br>- Get better at building scalable, high-quality web and mobile apps.  <br>- Land an internship with a leading tech company like Google, Microsoft, or Apple to work on real-world challenges.  <br>- Contribute to open-source projects and gain hands-on experience in software engineering.</p>
 
 ###
 
